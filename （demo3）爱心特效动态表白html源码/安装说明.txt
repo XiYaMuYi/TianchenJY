@@ -1,0 +1,5 @@
+安装说明：html静态单页模板，源码安装放置网站根目录即可。（本地测试直接用浏览器打开index.html即可查看效果）
+
+修改说明：修改建议使用Dreamweaver软件工具，当然熟悉代码的同学直接txt中修改也可以。（建议本地修改好再上传到服务器的）
+
+新手建站基础知识：http://shop.moxuangenet.com/index.php/article/1
